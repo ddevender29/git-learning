@@ -1,4 +1,3 @@
-def greet(name):
-    return f"Hello, {name}!"
+from config import VERSION
 
-print(greet("World"))
+print("Version:", VERSION)
