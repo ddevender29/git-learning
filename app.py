@@ -1,3 +1,6 @@
-from config import VERSION
+user = input("Enter your name: ")
 
-print("Version:", VERSION)
+if not user:
+    user = "Guest"
+
+print(greet(user))
