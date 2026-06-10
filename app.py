@@ -13,9 +13,14 @@ asf
 
 
 
+print(greet("World"))
+print(greet("Hello World"))
+
 
 raghdfuigqherauofh
 
+print(greet("World"))
+print(greet("Hello World"))
 
 asdfausidfhuisad
 
